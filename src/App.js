@@ -22,7 +22,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Vercel
+          supadupa vercel
         </a>
         !
       </h2>
